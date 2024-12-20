@@ -9,6 +9,29 @@ Welcome to **Solar-st-project-my-first-project**! This web project is designed t
 - **Clean and Simple Navigation**: Easy-to-use interface for exploring the content.
 - **Interactive Visuals**: Stunning layout and images to make learning fun!
 
+## 📂 Folder Structure
+
+Solar-st-project-my-first-project/
+│
+├── index.html                # Main HTML file
+├── README.md                 # Project description and documentation
+├── .gitignore                # Git ignore file to avoid tracking unnecessary files
+│
+├── assets/                   # Folder for images, fonts, icons, etc.
+│   ├── images/               # Project images (e.g., screenshots, icons)
+│   │   └── solar-panel.jpg   # Example image file
+│   └── icons/                # Icons for your project
+│       └── solar-icon.png    # Example icon file
+│
+├── css/                      # Folder for CSS files
+│   └── styles.css            # Main CSS file for styling
+│
+├── js/                       # Folder for JavaScript files (if any)
+│   └── scripts.js            # JavaScript file for any interactivity
+│
+└── favicon.ico               # Favicon for the website
+
+
 ## 🔧 Technologies Used
 - **HTML**: For structuring the content.
 - **CSS**: To create visually appealing and responsive designs.
