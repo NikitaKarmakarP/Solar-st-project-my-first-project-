@@ -15,7 +15,7 @@ Welcome to **Solar-st-project-my-first-project**! This web project is designed t
 
 ## 🚀 How to Get Started
 1. **Clone this repository**:
-   - git clone https://github.com/NikitaKarmakarP/Solar-st-project-my-first-project.git
+  - git clone https://github.com/NikitaKarmakarP/Solar-st-project-my-first-project.git
 2. **Open the index.html file in your browser:**
   - Right-click on the index.html file and select "Open with" your preferred web browser.
 3. **Enjoy exploring the beauty of solar energy! 🌞**
