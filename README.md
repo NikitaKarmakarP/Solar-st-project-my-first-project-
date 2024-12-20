@@ -3,6 +3,11 @@
 ## ✨ Project Overview
 Welcome to **Solar-st-project-my-first-project**! This web project is designed to highlight the power and beauty of solar energy using **HTML** and **CSS**. It aims to raise awareness about the environmental benefits of solar power in a visually engaging way. The project features a simple yet elegant design that introduces users to the importance of renewable energy sources.
 
+## 💡 The project aims to:
+- **🌞 Promote Sustainable Energy**: Highlight the benefits of solar power as a renewable energy source.
+- **🌍 Raise Awareness**: Inform users about the global need to adopt clean and green energy solutions.
+- **💡Showcase Design and Technology**: Use modern web design to effectively communicate a message of environmental consciousness.
+
 ## 🌟 Features
 - **Responsive Design**: Beautifully designed to look great on all screen sizes.
 - **Solar Energy Awareness**: Educates visitors on the power of solar energy.
